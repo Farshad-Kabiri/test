@@ -1,7 +1,4 @@
 blue 
 green
-<<<<<<< Updated upstream
 yeellow
 black
-=======
->>>>>>> Stashed changes
